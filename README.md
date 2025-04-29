@@ -1,6 +1,8 @@
 # MOTH
 MOTH stands for **M**ail **O**ver **T**ransport **H**TTP
 
+![Hackatime badge](https://hackatime-badge.hackclub.com/U080HHYN0JD/moth?label=spent)
+
 Basiclly, a mail clone through HTTP(s) that you can install to use with your own domain or borrow someone else domain
 
 ### Requirements
