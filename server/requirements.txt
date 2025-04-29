@@ -1,0 +1,7 @@
+Flask
+psycopg2
+requests
+dnspython
+PyJWT==2.9.0
+python-dotenv
+Flask-JWT-Extended

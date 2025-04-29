@@ -1,0 +1,7 @@
+test.py
+cli/config.json
+server/.env
+
+.idea
+.venv
+__pycache__
